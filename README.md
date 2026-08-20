@@ -158,7 +158,6 @@ Automated secure software delivery pipeline integrating development, security, a
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Waseem3720&theme=dark&hide_border=false&include_all_commits=true)
 
 ![](https://streak-stats.demolab.com/?user=Waseem3720&theme=dark&hide_border=false)
 
