@@ -7,8 +7,7 @@
 Experienced in developing end-to-end applications using **React.js, Node.js, Express.js, MongoDB, REST APIs**, and modern development practices. Also experienced with **Docker, CI/CD, AWS, and cloud deployment workflows**.
 
 🌐 **Portfolio:** [View My Portfolio](https://waseem-portfolio-ochre.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/waseem3720](https://linkedin.com/in/waseem3720)  
-🐙 **GitHub:** [github.com/Waseem3720](https://github.com/Waseem3720)  
+💼 **LinkedIn:** [linkedin.com/in/waseem3720](https://linkedin.com/in/waseem3720)   
 📩 **Email:** waseemhaniftechhub@gmail.com
 
 ---
