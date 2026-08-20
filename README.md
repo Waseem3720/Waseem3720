@@ -2,6 +2,8 @@
 
 ### Full Stack Software Engineer (MERN) | React.js | Node.js | DevOps & Cloud Enthusiast | AI-Integrated Applications
 
+🌐 **Portfolio:** [View My Portfolio](https://waseem-portfolio-ochre.vercel.app/)
+
 🚀 Software Engineering graduate from FAST NUCES focused on building scalable web applications, backend systems, and AI-integrated solutions.
 
 Experienced in developing end-to-end applications using **React.js, Node.js, Express.js, MongoDB, REST APIs**, and modern development practices. Also experienced with **Docker, CI/CD, AWS, and cloud deployment workflows**.
